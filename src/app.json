@@ -1,0 +1,7 @@
+{
+    "api_url": "https://api-castlestash.azurewebsites.net",
+    "api_url_addon": "/techmillresource/mono-api/api",
+    "uikey": "ddd",
+    "timeout" :  1200000,
+    "encrypt_key": "ddd"
+}
