@@ -12,5 +12,5 @@ run "npm install", To download the necessary dependencies
 then
 run "npm start" on the terminal
 
-Author 
-Engr Ekanem Tobechukwu J E
+Author:
+Ekanem Tobechukwu J. E
